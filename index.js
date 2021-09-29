@@ -101,7 +101,7 @@ for (var i = 0; i < highScores.length; i++) {
 }
 console.log(chalk.magenta("------------------------"));
 if (f === 1){
-  console.log(chalk.green("Congratulations! you made it to the leader board!"));
+  console.log(chalk.green("Congratulations! on making it to the leader board!"));
   highScores.push(latestUser);
 }
 else {

@@ -16,4 +16,3 @@ Library used:
   
         •	CHALK – for enhancing the user experience
   
-You can also enjoy the game here : https://replit.com/@SHILPIKUNDU/friends-Quiz-App#index.js??embed=1&output=1
